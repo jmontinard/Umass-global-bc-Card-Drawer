@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="card"
+    style="width: 18rem; position: absolute; transform: rotate(0deg);"
+  >
+    <img
+      class="card-img-top"
+      src="test_image"
+    />
+    <div
+      class="card-body"
+    >
+      <div
+        class="card-title h5"
+      >
+        test_value of test_suit
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

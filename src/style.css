@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  /* padding: 0rem; */
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+
+.App {
+  text-align: center;
+  background-color: #013220;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.button-container {
+  margin-bottom: 2rem;
+}
+
+.card-container {
+  position: relative;
+  width: 18rem;
+  height: 26rem;
+}
